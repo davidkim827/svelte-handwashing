@@ -28,6 +28,7 @@
     </a>
 </h3>
 
+<!-- svelte-ignore a11y-media-has-caption -->
 <audio bind:this={audio}>
     <source src="notification.wav" />
 </audio>
